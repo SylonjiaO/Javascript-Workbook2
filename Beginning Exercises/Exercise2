@@ -1,0 +1,14 @@
+1)const	continue
+debugger	default	delete	do
+double	else	enum*	eval
+
+2)hasOwnProperty	Infinity	isFinite	isNaN
+isPrototypeOf	length	Math	NaN
+name	Number
+
+3) frame	innerHeight	innerWidth
+layer	layers	link	location
+mimeTypes	navigate	navigator
+
+4) onblur	onclick	onerror	onfocus
+onkeydown	onkeypress
