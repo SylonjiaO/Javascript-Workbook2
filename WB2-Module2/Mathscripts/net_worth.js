@@ -6,4 +6,3 @@ var netWorth = assets - debts;
 
 //output
 console.log("My net worth is " + netWorth);
-
